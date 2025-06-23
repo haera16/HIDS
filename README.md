@@ -33,7 +33,7 @@ sudo apt install build-essential libpcap-dev libsqlite3-dev
 git clone https://github.com/haera16/HIDS.git
 cd HIDS
 ```
-3. Build the project:
+3. Compile the project:
 ```bash
 g++ -o hids hids.cpp -lpcap -lsqlite3
 ```
