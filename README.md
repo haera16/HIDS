@@ -64,6 +64,9 @@ sudo ./hids
 - Store detailed attack data in `signature.db`
 - Detect and notify potential security threats like floods or scans
 
+## Demo Screenshot
+![HIDS demo](image/demo.png)
+
 ## Logging
 The system automatically logs events to `alerts.txt` and stores attack records in `signature.db`, including:
 
